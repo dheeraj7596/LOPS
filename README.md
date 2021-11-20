@@ -1,4 +1,4 @@
-# ConWea: Contextualized Weak Supervision for Text Classification
+# LOPS : Learning Order Inspired Pseudo-Label Selection for Weakly Supervised Text Classification
 
 - [Model](#model)
 - [Training](#training)
