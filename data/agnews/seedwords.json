@@ -1,0 +1,31 @@
+{
+  "politics": [
+    "government",
+    "military",
+    "war",
+    "iraq",
+    "palestinian"
+  ],
+  "sports": [
+    "basketball",
+    "football",
+    "athletes",
+    "championship",
+    "yankees"
+  ],
+  "business": [
+    "stocks",
+    "markets",
+    "industries",
+    "oil",
+    "sales"
+  ],
+  "technology": [
+    "computer",
+    "telescope",
+    "software",
+    "microsoft",
+    "space"
+  ]
+}
+
