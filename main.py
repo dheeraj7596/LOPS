@@ -146,8 +146,10 @@ if __name__ == "__main__":
     else:
         device = torch.device("cpu")
 
+    assert args.clf in ["gpt2", "bert", "roberta", "xlnet"], "Choose classifier from gpt2, bert, roberta, xlnet"
+
     main(
-        data_path=args.data_path,
+        data_path=args.dataset_path,
         dataset=args.dataset,
         clf=args.clf,
         device=device,
